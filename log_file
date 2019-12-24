@@ -1,0 +1,416 @@
+EAL: Detected lcore 0 as core 0 on socket 0
+EAL: Detected lcore 1 as core 0 on socket 0
+EAL: Detected lcore 2 as core 0 on socket 0
+EAL: Detected lcore 3 as core 0 on socket 0
+EAL: Support maximum 128 logical core(s) by configuration.
+EAL: Detected 4 lcore(s)
+EAL: No free hugepages reported in hugepages-1048576kB
+EAL: Probing VFIO support...
+EAL: Module /sys/module/vfio_pci not found! error 2 (No such file or directory)
+EAL: VFIO modules not loaded, skipping VFIO support...
+EAL: Module /sys/module/vfio_pci not found! error 2 (No such file or directory)
+EAL: Setting up physically contiguous memory...
+EAL: Trying to obtain current memory policy.
+EAL: Hugepage /dev/hugepages/rtemap_1 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_6 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_7 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_8 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_9 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_10 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_12 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_13 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_14 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_15 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_16 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_17 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_18 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_19 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_20 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_21 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_22 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_23 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_24 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_25 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_26 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_27 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_28 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_29 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_30 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_31 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_32 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_33 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_34 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_35 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_36 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_37 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_38 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_39 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_40 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_41 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_42 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_43 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_44 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_45 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_46 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_47 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_48 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_49 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_50 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_51 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_52 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_53 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_54 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_55 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_56 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_57 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_58 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_59 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_60 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_61 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_62 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_63 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_64 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_65 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_66 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_67 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_68 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_69 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_70 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_71 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_72 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_73 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_74 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_75 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_76 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_77 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_78 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_79 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_80 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_81 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_82 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_83 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_84 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_85 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_86 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_87 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_88 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_89 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_90 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_91 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_92 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_93 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_94 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_95 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_96 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_97 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_98 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_99 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_100 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_101 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_102 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_103 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_104 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_105 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_106 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_107 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_108 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_109 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_110 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_111 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_112 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_113 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_114 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_115 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_116 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_117 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_118 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_119 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_120 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_121 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_122 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_123 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_124 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_125 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_126 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_127 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_11 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_5 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_4 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_3 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_2 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_0 is on socket 0
+EAL: Ask a virtual area of 0x200000 bytes
+EAL: Virtual area found at 0x7ff370400000 (size = 0x200000)
+EAL: Ask a virtual area of 0x9800000 bytes
+EAL: Virtual area found at 0x7ff366a00000 (size = 0x9800000)
+EAL: Ask a virtual area of 0x400000 bytes
+EAL: Virtual area found at 0x7ff366400000 (size = 0x400000)
+EAL: Ask a virtual area of 0x400000 bytes
+EAL: Virtual area found at 0x7ff365e00000 (size = 0x400000)
+EAL: Ask a virtual area of 0x800000 bytes
+EAL: Virtual area found at 0x7ff365400000 (size = 0x800000)
+EAL: Ask a virtual area of 0x2800000 bytes
+EAL: Virtual area found at 0x7ff362a00000 (size = 0x2800000)
+EAL: Ask a virtual area of 0x1000000 bytes
+EAL: Virtual area found at 0x7ff361800000 (size = 0x1000000)
+EAL: Ask a virtual area of 0x1400000 bytes
+EAL: Virtual area found at 0x7ff360200000 (size = 0x1400000)
+EAL: Ask a virtual area of 0x600000 bytes
+EAL: Virtual area found at 0x7ff35fa00000 (size = 0x600000)
+EAL: Ask a virtual area of 0x200000 bytes
+EAL: Virtual area found at 0x7ff35f600000 (size = 0x200000)
+EAL: Ask a virtual area of 0x200000 bytes
+EAL: Virtual area found at 0x7ff35f200000 (size = 0x200000)
+EAL: Requesting 128 pages of size 2MB from socket 0
+EAL: TSC frequency is ~2304001 KHz
+EAL: Master lcore 0 is ready (tid=725c28c0;cpuset=[0])
+EAL: lcore 2 is ready (tid=5e9fe700;cpuset=[2])
+EAL: lcore 1 is ready (tid=5f1ff700;cpuset=[1])
+EAL: PCI device 0000:02:01.0 on NUMA socket -1
+EAL:   Invalid NUMA socket, default to 0
+EAL:   probe driver: 8086:100f net_e1000_em
+EAL:   Not managed by a supported kernel driver, skipped
+EAL: PCI device 0000:02:06.0 on NUMA socket -1
+EAL:   Invalid NUMA socket, default to 0
+EAL:   probe driver: 8086:100f net_e1000_em
+EAL:   PCI memory mapped at 0x7ff370600000
+EAL:   PCI memory mapped at 0x7ff370620000
+PMD: eth_em_dev_init(): port_id 0 vendorID=0x8086 deviceID=0x100f
+EAL: PCI device 0000:02:07.0 on NUMA socket -1
+EAL:   Invalid NUMA socket, default to 0
+EAL:   probe driver: 8086:100f net_e1000_em
+EAL:   PCI memory mapped at 0x7ff370630000
+EAL:   PCI memory mapped at 0x7ff370650000
+PMD: eth_em_dev_init(): port_id 1 vendorID=0x8086 deviceID=0x100f
+SWITCH: app_parse_port_mask: port map: app.n_ports[0] = 0
+SWITCH: app_parse_port_mask: port map: app.n_ports[1] = 1
+SWITCH: app_finish_config: shared memory disabled, each(2) port has 2621440B/2560KiB buffer.
+SWITCH: app_finish_config: tx_rate: 9999Mbps, tbf bucket size=5000B
+SWITCH: Creating the mbuf pool ...
+SWITCH: Initializing NIC port 0 ...
+PMD: eth_em_rx_queue_setup(): sw_ring=0x7ff35f208380 hw_ring=0x7ff35f70f3c0 dma_addr=0x1350f3c0
+PMD: eth_em_tx_queue_setup(): sw_ring=0x7ff35f208080 hw_ring=0x7ff35f6ff380 dma_addr=0x134ff380
+PMD: eth_em_start(): <<
+SWITCH: Initializing NIC port 1 ...
+PMD: eth_em_rx_queue_setup(): sw_ring=0x7ff35f207a80 hw_ring=0x7ff35f6ef340 dma_addr=0x134ef340
+PMD: eth_em_tx_queue_setup(): sw_ring=0x7ff35f207780 hw_ring=0x7ff35f6df300 dma_addr=0x134df300
+PMD: eth_em_start(): <<
+SWITCH: Port 0 (1 Gbps) UP
+SWITCH: Port 1 (1 Gbps) UP
+SWITCH: Initialization completed
+SWITCH: Core 1 is doing forwarding
+SWITCH: Core 2 is doing TX
+SWITCH: init_tx: actual tx_rate of port 0: 9991994034bps=9991Mbps
+SWITCH: init_tx: actual tx_rate of port 1: 9991994034bps=9991Mbps
+SWITCH: Core 0 is doing RX
+SWITCH: signal_handler: Receive 2 signal, prepare to exit...
+SWITCH: app_quit: Closing NIC port 0 ...
+SWITCH: app_quit: Closing NIC port 1 ...
+EAL: Detected lcore 0 as core 0 on socket 0
+EAL: Detected lcore 1 as core 0 on socket 0
+EAL: Detected lcore 2 as core 0 on socket 0
+EAL: Detected lcore 3 as core 0 on socket 0
+EAL: Support maximum 128 logical core(s) by configuration.
+EAL: Detected 4 lcore(s)
+EAL: No free hugepages reported in hugepages-1048576kB
+EAL: Probing VFIO support...
+EAL: Module /sys/module/vfio_pci not found! error 2 (No such file or directory)
+EAL: VFIO modules not loaded, skipping VFIO support...
+EAL: Module /sys/module/vfio_pci not found! error 2 (No such file or directory)
+EAL: Setting up physically contiguous memory...
+EAL: Trying to obtain current memory policy.
+EAL: Hugepage /dev/hugepages/rtemap_1 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_6 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_7 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_8 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_9 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_10 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_11 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_12 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_13 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_14 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_15 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_16 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_18 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_19 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_20 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_21 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_22 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_23 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_24 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_25 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_26 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_27 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_28 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_29 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_30 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_31 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_32 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_33 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_34 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_35 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_36 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_37 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_38 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_39 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_40 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_41 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_42 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_43 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_44 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_45 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_46 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_47 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_48 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_49 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_50 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_51 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_52 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_53 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_54 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_55 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_56 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_57 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_58 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_59 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_60 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_61 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_62 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_63 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_64 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_65 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_66 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_67 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_68 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_69 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_70 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_71 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_72 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_73 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_74 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_75 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_76 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_77 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_78 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_79 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_80 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_81 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_82 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_83 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_84 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_85 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_86 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_87 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_88 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_89 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_90 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_91 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_92 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_93 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_94 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_95 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_96 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_97 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_98 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_99 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_100 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_101 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_102 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_103 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_104 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_105 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_106 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_107 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_108 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_109 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_110 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_111 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_112 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_113 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_114 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_115 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_116 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_117 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_118 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_119 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_120 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_121 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_122 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_123 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_124 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_125 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_126 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_127 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_17 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_5 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_4 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_3 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_2 is on socket 0
+EAL: Hugepage /dev/hugepages/rtemap_0 is on socket 0
+EAL: Ask a virtual area of 0x200000 bytes
+EAL: Virtual area found at 0x7ff591a00000 (size = 0x200000)
+EAL: Ask a virtual area of 0x9800000 bytes
+EAL: Virtual area found at 0x7ff588000000 (size = 0x9800000)
+EAL: Ask a virtual area of 0x400000 bytes
+EAL: Virtual area found at 0x7ff587a00000 (size = 0x400000)
+EAL: Ask a virtual area of 0x400000 bytes
+EAL: Virtual area found at 0x7ff587400000 (size = 0x400000)
+EAL: Ask a virtual area of 0x800000 bytes
+EAL: Virtual area found at 0x7ff586a00000 (size = 0x800000)
+EAL: Ask a virtual area of 0x2800000 bytes
+EAL: Virtual area found at 0x7ff584000000 (size = 0x2800000)
+EAL: Ask a virtual area of 0x1000000 bytes
+EAL: Virtual area found at 0x7ff582e00000 (size = 0x1000000)
+EAL: Ask a virtual area of 0x1400000 bytes
+EAL: Virtual area found at 0x7ff581800000 (size = 0x1400000)
+EAL: Ask a virtual area of 0x600000 bytes
+EAL: Virtual area found at 0x7ff581000000 (size = 0x600000)
+EAL: Ask a virtual area of 0x200000 bytes
+EAL: Virtual area found at 0x7ff580c00000 (size = 0x200000)
+EAL: Ask a virtual area of 0x200000 bytes
+EAL: Virtual area found at 0x7ff580800000 (size = 0x200000)
+EAL: Requesting 128 pages of size 2MB from socket 0
+EAL: TSC frequency is ~2304014 KHz
+EAL: Master lcore 0 is ready (tid=93b408c0;cpuset=[0])
+EAL: lcore 1 is ready (tid=807ff700;cpuset=[1])
+EAL: lcore 2 is ready (tid=7fffe700;cpuset=[2])
+EAL: PCI device 0000:02:01.0 on NUMA socket -1
+EAL:   Invalid NUMA socket, default to 0
+EAL:   probe driver: 8086:100f net_e1000_em
+EAL:   Not managed by a supported kernel driver, skipped
+EAL: PCI device 0000:02:06.0 on NUMA socket -1
+EAL:   Invalid NUMA socket, default to 0
+EAL:   probe driver: 8086:100f net_e1000_em
+EAL:   PCI memory mapped at 0x7ff591c00000
+EAL:   PCI memory mapped at 0x7ff591c20000
+PMD: eth_em_dev_init(): port_id 0 vendorID=0x8086 deviceID=0x100f
+EAL: PCI device 0000:02:07.0 on NUMA socket -1
+EAL:   Invalid NUMA socket, default to 0
+EAL:   probe driver: 8086:100f net_e1000_em
+EAL:   PCI memory mapped at 0x7ff591c30000
+EAL:   PCI memory mapped at 0x7ff591c50000
+PMD: eth_em_dev_init(): port_id 1 vendorID=0x8086 deviceID=0x100f
+SWITCH: app_parse_port_mask: port map: app.n_ports[0] = 0
+SWITCH: app_parse_port_mask: port map: app.n_ports[1] = 1
+SWITCH: app_finish_config: shared memory disabled, each(2) port has 2621440B/2560KiB buffer.
+SWITCH: app_finish_config: tx_rate: 9999Mbps, tbf bucket size=5000B
+SWITCH: Creating the mbuf pool ...
+SWITCH: Initializing NIC port 0 ...
+PMD: eth_em_rx_queue_setup(): sw_ring=0x7ff580808380 hw_ring=0x7ff580d0f3c0 dma_addr=0x1350f3c0
+PMD: eth_em_tx_queue_setup(): sw_ring=0x7ff580808080 hw_ring=0x7ff580cff380 dma_addr=0x134ff380
+PMD: eth_em_start(): <<
+SWITCH: Initializing NIC port 1 ...
+PMD: eth_em_rx_queue_setup(): sw_ring=0x7ff580807a80 hw_ring=0x7ff580cef340 dma_addr=0x134ef340
+PMD: eth_em_tx_queue_setup(): sw_ring=0x7ff580807780 hw_ring=0x7ff580cdf300 dma_addr=0x134df300
+PMD: eth_em_start(): <<
+SWITCH: Port 0 (1 Gbps) UP
+SWITCH: Port 1 (1 Gbps) UP
+SWITCH: Initialization completed
+SWITCH: Core 1 is doing forwarding
+SWITCH: Core 2 is doing TX
+SWITCH: init_tx: actual tx_rate of port 0: 9991994620bps=9991Mbps
+SWITCH: init_tx: actual tx_rate of port 1: 9991994620bps=9991Mbps
+SWITCH: Core 0 is doing RX
+SWITCH: signal_handler: Receive 2 signal, prepare to exit...
+SWITCH: app_quit: Closing NIC port 0 ...
+SWITCH: app_quit: Closing NIC port 1 ...
